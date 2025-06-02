@@ -5,7 +5,7 @@ const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
-        enunciado: "Qual a importância do 2PAC na cultura de plantações de ervas",
+        enunciado: "Qual a importância do 2PAC na cultura de plantações de ervas?",
         alternativas: [
             {
             texto: "Alternativa 1", 
