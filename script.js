@@ -13,19 +13,18 @@ const perguntas = [
             },
 
              {
-            texto: "Ele foi simbolo de diversidade cultural e musical e foi importante para abrir espaços para trazer igualdade racial", 
+            texto: "Ele foi simbolo de diversidade cultural e musical e foi importante para abrir espaços para trazer igualdade racial.", 
             afirmacao: "A preservação da cultura de resistência de um povo."
             },
         ]
 
     },
-    {
-        enunciado: "Pergunta 2",
+      enunciado: "Pergunta 2",
         alternativas: [
             {
             texto: "Alternativa 1", 
-            afirmacao: "afirmacao1"
-            },
+           afirmacao: "afirmacao1"
+           },
 
              {
             texto: "Alternativa 2", 
