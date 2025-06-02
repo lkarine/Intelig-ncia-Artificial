@@ -8,13 +8,13 @@ const perguntas = [
         enunciado: "Qual a importância do 2PAC na cultura de plantações de ervas?",
         alternativas: [
             {
-            texto: "Alternativa 1", 
-            afirmacao: "afirmacao1"
+            texto: "Trazer dignidade e expandir a visibilidade cultural  afro-americana.", 
+            afirmacao: "O 2PAC foi fundamental para a cultura afro-americana."
             },
 
              {
-            texto: "Alternativa 2", 
-            afirmacao: "afirmacao2"
+            texto: "Ele foi simbolo de diversidade cultural e musical e foi importante para abrir espaços para trazer igualdade racial", 
+            afirmacao: "A preservação da cultura de resistência de um povo."
             },
         ]
 
