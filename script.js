@@ -33,20 +33,7 @@ const perguntas = [
             },
         ]
     },
-    {
-        enunciado: "Pergunta 2",
-        alternativas: [
-            {
-            texto: "Alternativa 1", 
-            afirmacao: "afirmacao1"
-            },
-
-             {
-            texto: "Alternativa 2", 
-            afirmacao: "afirmacao2"
-            },
-        ]
-    },
+    
 ];
 
 let atual = 0;
@@ -54,6 +41,17 @@ let perguntaAtual;
 
 function mostraPergunta(){
     perguntaAtual = perguntas[atual];
-    caixaPerguntas.textContent = perguntaAtual.enunciado;    
+    caixaPerguntas.textContent = perguntaAtual.enunciado;
+    mostraAlternativa();   
 }
+
+function mostraAlternativa(){
+  for(const alternativa of perguntaAtual.alternativas){
+      const botaoAlternativa = document.createElement("button");
+     botaoAlternativa.textContent = alternativa.texto;
+     caixaAlternativas.appendChild (botaoAlternativa);
+  }
+
+}
+
 mostraPergunta();
