@@ -40,7 +40,7 @@ let perguntaAtual;
 let historiaFinal = "";
 
 function mostraPergunta(){
-    if (atual>= perguntas.lenght){
+    if (atual>= perguntas.length){
         mostraResultado();
         return;
     }
