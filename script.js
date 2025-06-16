@@ -10,7 +10,7 @@ const perguntas = [
             {
             texto: "A África é um continente de vasta diversidade cultural 
             abrigando milhares de grupos étnicos, cada um com suas próprias línguas, costumes,
-             tradições artísticas e sistemas de crença.", 
+             tradições artísticas e sistemas de crença."
             afirmacao: "Essa riqueza se manifesta em múltiplas formas: na música, 
             que vai desde os ritmos complexos do djembê até as melodias suaves da kora"
             },
