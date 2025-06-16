@@ -19,30 +19,30 @@ const perguntas = [
         ]
 
     },
-    {enunciado: "Pergunta 2",
+    {enunciado: "Como o 2PAC se relaciona com as ervas medicinais indigenas?",
         alternativas: [
             {
-            texto: "Alternativa 1", 
-           afirmacao: "afirmacao1"
+            texto: "Ambos tem como objetivo ser um mártire cultural e um elemento histórico como simbolo de um povo.", 
+           afirmacao: "Importância de trazer diginidade cultural ao mundo moderno.";
            },
 
              {
-            texto: "Alternativa 2", 
-            afirmacao: "afirmacao2"
+            texto: "Graças aos indígenas existem os remédios que 2PAC utiliza", 
+            afirmacao: "Vemos que os remédios dos índigenas são importantes para o 2PAC."
             },
         ]
     },
 
-    {enunciado: "Pergunta 3",
+    {enunciado: "Como o 2PAC relaciona com plantações e ervas indigenas?",
         alternativas: [
             {
-            texto: "Alternativa 1", 
-           afirmacao: "afirmacao1"
+            texto: "As plantações foram ressignificadas tanto na cultural afro-americana e indigena. Movimento plantation nos EUA foi cenário da brutalidade escravista.", 
+           afirmacao: "o 2PAC ressignificou na sua música como consciencia social, resistencia politica e ancestralidade."
            },
 
              {
-            texto: "Alternativa 2", 
-            afirmacao: "afirmacao2"
+            texto: "O povo indígena vê plantação como ritual, pois cada semente pra eles tem espírito. Plantar significa vida e cultura", 
+            afirmacao: "O 2PAC usou na música o cultivo como metáfora na vida do gueto, onde o solo hóstil, racismo, pobreza e violência podem fazer flores nascer."
             },
         ]
     },
