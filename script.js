@@ -19,16 +19,16 @@ const perguntas = [
         ]
 
     },
-    {enunciado: "Como o 2PAC se relaciona com as ervas medicinais indigenas?",
+    {enunciado: "Fale mais",
         alternativas: [
             {
-            texto: "Ambos tem como objetivo ser um mártire cultural e um elemento histórico como simbolo de um povo.", 
-           afirmacao: "Importância de trazer diginidade cultural ao mundo moderno."
+            texto: "tradições", 
+           afirmacao: "As tradições africanas são transmitidas oralmente, preservando a história, os valores e os costumes das comunidades."
            },
 
              {
-            texto: "Graças aos indígenas existem os remédios que 2PAC utiliza", 
-            afirmacao: "Vemos que os remédios dos índigenas são importantes para o 2PAC."
+            texto: "Religião", 
+            afirmacao: "A África possui uma rica diversidade religiosa,om práticas animistas, politeístas e panteístas."
             },
         ]
     },
