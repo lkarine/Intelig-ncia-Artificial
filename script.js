@@ -23,7 +23,7 @@ const perguntas = [
         alternativas: [
             {
             texto: "Ambos tem como objetivo ser um mártire cultural e um elemento histórico como simbolo de um povo.", 
-           afirmacao: "Importância de trazer diginidade cultural ao mundo moderno.";
+           afirmacao: "Importância de trazer diginidade cultural ao mundo moderno."
            },
 
              {
