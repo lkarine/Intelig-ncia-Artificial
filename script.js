@@ -33,16 +33,16 @@ const perguntas = [
         ]
     },
 
-    {enunciado: "Como o 2PAC relaciona com plantações e ervas indigenas?",
+    {enunciado: "Cite religiões",
         alternativas: [
             {
-            texto: "As plantações foram ressignificadas tanto na cultural afro-americana e indigena. Movimento plantation nos EUA foi cenário da brutalidade escravista.", 
-           afirmacao: "o 2PAC ressignificou na sua música como consciencia social, resistencia politica e ancestralidade."
+            texto:"Candomblé", 
+           afirmacao: "Tem raízes africanas mais diretas, focando no culto aos orixás e ancestrais."
            },
 
              {
-            texto: "O povo indígena vê plantação como ritual, pois cada semente pra eles tem espírito. Plantar significa vida e cultura", 
-            afirmacao: "O 2PAC usou na música o cultivo como metáfora na vida do gueto, onde o solo hóstil, racismo, pobreza e violência podem fazer flores nascer."
+            texto: "Umbanda", 
+            afirmacao: "Incorpora elementos do espiritismo kardecista,com uma abordagem mais sincrética e voltada para a caridade. ."
             },
         ]
     },
