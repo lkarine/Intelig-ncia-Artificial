@@ -5,16 +5,16 @@ const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
-        enunciado: "Qual a importância do 2PAC na cultura de plantações de ervas?",
+        enunciado: "Cite aspectos da cultura africana",
         alternativas: [
             {
-            texto: "Trazer dignidade e expandir a visibilidade cultural  afro-americana.", 
-            afirmacao: "O 2PAC foi fundamental para a cultura afro-americana."
+            texto: "Música", 
+            afirmacao: "É extremamente diversificada, com uma variedade de instrumentos, ritmos e estilos."
             },
 
              {
-            texto: "Ele foi simbolo de diversidade cultural e musical e foi importante para abrir espaços para trazer igualdade racial.", 
-            afirmacao: "A preservação da cultura de resistência de um povo."
+            texto: "Dança", 
+            afirmacao: "são frequentemente parte de rituais religiosos e cerimônias, com ritmos específicos para diferentes orixás e entidades espirituais."
             },
         ]
 
