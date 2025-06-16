@@ -8,11 +8,8 @@ const perguntas = [
         enunciado: "Qual a importância do 2PAC na cultura de plantações de ervas?",
         alternativas: [
             {
-            texto: "A África é um continente de vasta diversidade cultural 
-            abrigando milhares de grupos étnicos, cada um com suas próprias línguas, costumes,
-             tradições artísticas e sistemas de crença."
-            afirmacao: "Essa riqueza se manifesta em múltiplas formas: na música, 
-            que vai desde os ritmos complexos do djembê até as melodias suaves da kora"
+            texto: "Trazer dignidade e expandir a visibilidade cultural  afro-americana.", 
+            afirmacao: "O 2PAC foi fundamental para a cultura afro-americana."
             },
 
              {
